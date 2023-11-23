@@ -1,4 +1,3 @@
 # task
 
-video.mp4
 
